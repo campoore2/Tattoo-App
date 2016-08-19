@@ -1,8 +1,8 @@
 Tattoo Finder
 ============
 
-[![Twitter: @TattooFinder](https://img.shields.io/badge/contact-@TattooFinder-blue.svg?style=flat)](https://twitter.com/TattooFinder)
-[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/fastlane/fastlane/blob/master/LICENSE)
+[![Twitter: @TattooFinder](https://img.shields.io/badge/contact-@TattooFinder-blue.svg?style=flat)](#)
+[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](#)
 
 `TattooFinder` is a tool for iOS and Web users to help them find the best Tattoo Artist in their area.
 
