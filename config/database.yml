@@ -1,0 +1,8 @@
+development:
+    adapter: postgresql
+    database: tattoo_development
+
+test:
+  adapter: postgresql
+  database: apocalypse_test
+  
